@@ -1,5 +1,5 @@
 blueprint:
-  name: Garbage reminder
+  name: Garbage reminder for ReCollect Waste
   domain: automation
   input:
     reminder_time:
